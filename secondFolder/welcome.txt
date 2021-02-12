@@ -1,0 +1,6 @@
+welcome to notepad app
+
+/read: to read the contents of the file
+/post: to send a data packet to the file
+/update: to update the existing data in the file
+/delete: to delete the file
